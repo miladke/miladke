@@ -179,4 +179,4 @@ I am open to conversations around AI-native business infrastructure, growth syst
 
 - Website: [galaxiro.com](https://www.galaxiro.com/)
 - LinkedIn: [linkedin.com/in/miladkeshani](https://www.linkedin.com/in/miladkeshani/)
-- Email: [Add email address](mailto:your@email.com)
+- Email: [miladkeshani2@gmail.com](mailto:miladkeshani2@gmail.com)
