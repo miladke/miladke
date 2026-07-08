@@ -35,6 +35,12 @@ Through **Galaxiro**, my digital product and AI infrastructure company, I work a
 | **Wingo Markets** | FX Broker Dashboard | Full dashboard design and development for an FX brokerage built around social trading, with calm, uncluttered UX for active traders. Also served as CMO for 14 months. | [wingomarkets.com](https://wingomarkets.com) |
 | **Invest Group** | Real Estate & Investment Consulting | Trilingual corporate website and brand book for a real estate and investment consulting firm in Georgia. | [investgroup.ge](https://investgroup.ge) |
 
+### Selected Work Repository
+
+For a more structured public portfolio, see: [milad-keshani-selected-work](https://github.com/miladke/milad-keshani-selected-work)
+
+This repository contains sanitized public case studies, product notes, UX/platform scope, and business infrastructure summaries. It does not include private client code, confidential data, credentials, or internal implementation details.
+
 ### RunYaar Platform Screenshots
 
 **Member Access**  
