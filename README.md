@@ -40,59 +40,59 @@ Through **Galaxiro**, my digital product and AI infrastructure company, I work a
 **Member Access**  
 Login and onboarding experience for runners entering the RunYaar member platform.
 
-<img src="assets/runyaar-login.png" alt="RunYaar member login screen" width="100%">
+<img src="assets/runyaar-login.jpg" alt="RunYaar member login screen" width="100%">
 
 **Member Dashboard**  
 Running community dashboard for mileage, running history, health indicators, profile completion, events, and loyalty progress.
 
-<img src="assets/runyaar-dashboard.png" alt="RunYaar member dashboard" width="100%">
+<img src="assets/runyaar-dashboard.jpg" alt="RunYaar member dashboard" width="100%">
 
 ### FinTrack Platform Screenshots
 
 **Finance Dashboard**  
 Finance operations dashboard for cash position, commitments, paid spend, subscriptions, petty cash, approvals, payroll, projects, and payment sources.
 
-<img src="assets/fintrack-dashboard.png" alt="FinTrack finance operations dashboard" width="100%">
+<img src="assets/fintrack-dashboard.jpg" alt="FinTrack finance operations dashboard" width="100%">
 
 **Reports View**  
 Reporting interface for spending analysis by period, category, vendor, currency, and export-ready finance reports.
 
-<img src="assets/fintrack-reports.png" alt="FinTrack finance reports view" width="100%">
+<img src="assets/fintrack-reports.jpg" alt="FinTrack finance reports view" width="100%">
 
 ### Wingo Markets Social Trade Screenshot
 
 Social trading panel for provider and follower journeys inside an FX brokerage dashboard environment.
 
-<img src="assets/wingo-social-trade.png" alt="Wingo Markets social trading panel" width="100%">
+<img src="assets/wingo-social-trade.jpg" alt="Wingo Markets social trading panel" width="100%">
 
 ### Wingo Markets User Dashboard Screenshot
 
 User dashboard for account overview, wallet balance, trading accounts, deposit flows, account status, and brokerage client activity.
 
-<img src="assets/wingo-user-dashboard.png" alt="Wingo Markets user dashboard" width="100%">
+<img src="assets/wingo-user-dashboard.jpg" alt="Wingo Markets user dashboard" width="100%">
 
 ### Raya Education Platform Screenshots
 
 **Public Website**  
 Raya Education public admissions experience for international students exploring universities and programs in Turkey.
 
-<img src="assets/rayaedu-website.png" alt="Raya Education public website homepage" width="100%">
+<img src="assets/rayaedu-website.jpg" alt="Raya Education public website homepage" width="100%">
 
 **Student Portal**  
 Student dashboard for application tracking, profile completion, documents, reviews, messages, and admissions progress.
 
-<img src="assets/rayaedu-student-portal.png" alt="Raya Education student portal dashboard" width="100%">
+<img src="assets/rayaedu-student-portal.jpg" alt="Raya Education student portal dashboard" width="100%">
 
 **Agent Portal**  
 Agent dashboard for referrals, leads, profile information, admissions status, and partner workflow visibility.
 
-<img src="assets/rayaedu-agent-portal.png" alt="Raya Education agent portal dashboard" width="100%">
+<img src="assets/rayaedu-agent-portal.jpg" alt="Raya Education agent portal dashboard" width="100%">
 
 ### Invest Group Website Screenshot
 
 Corporate website for a real estate and investment consulting firm in Georgia, supported by a trilingual web presence and brand system.
 
-<img src="assets/investgroup-website.png" alt="Invest Group real estate and investment consulting website" width="100%">
+<img src="assets/investgroup-website.jpg" alt="Invest Group real estate and investment consulting website" width="100%">
 
 ### Case Study Placeholders
 
